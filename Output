@@ -1,0 +1,11 @@
+Enter stock name (or 'done'): AAPL
+Enter quantity: 5
+
+Enter stock name (or 'done'): TSLA
+Enter quantity: 2
+
+Enter stock name (or 'done'): DONE
+
+Total Investment Value = 1400
+Result saved in portfolio.txt
+
