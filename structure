@@ -1,0 +1,5 @@
+CodeAlpha_StockPortfolioTracker
+├── stock_tracker.py
+├── portfolio.txt
+├── README.md
+└── output.png
